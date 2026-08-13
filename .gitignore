@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+
+output/
+*.docx
+
+.idea/
+.vscode/
+
+.DS_Store
