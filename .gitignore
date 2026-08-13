@@ -9,3 +9,5 @@ output/
 .vscode/
 
 .DS_Store
+
+evaluation/predictions.csv

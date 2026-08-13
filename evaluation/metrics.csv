@@ -1,0 +1,6 @@
+entity_type,ground_truth,predicted,true_positive,false_positive,false_negative,precision,recall,f1_score
+ADDRESS,11,99,11,88,0,0.1111,1.0,0.2
+EMAIL,9,70,9,61,0,0.1286,1.0,0.2278
+ORGANIZATION,71,165,71,94,0,0.4303,1.0,0.6017
+PERSON,88,391,88,303,0,0.2251,1.0,0.3674
+PHONE,7,82,7,75,0,0.0854,1.0,0.1573
